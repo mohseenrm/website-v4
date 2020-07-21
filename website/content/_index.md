@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Mohseen"
-subheading: "A minimal blog theme for hugo."
+subheading: "Working on projects that help AI learn from Web"
 handle: "mohseenrm"
 ---
