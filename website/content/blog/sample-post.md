@@ -1,6 +1,6 @@
 ---
 title: "Sample Post"
-date: 2020-07-20T17:46:03-07:00
+date: 2020-07-10T17:46:03-07:00
 slug: ""
 description: ""
 keywords: []
@@ -9,3 +9,5 @@ tags: []
 math: false
 toc: false
 ---
+
+some content
