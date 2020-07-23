@@ -1,7 +1,7 @@
 ---
 heading: "Hi, I'm Mohseen"
-subheading: "Working on projects that help AI learn from Web"
+subheading: "Working on projects that bring AI to the Web"
 handle: "mohseenrm"
 ---
 
-this
+some content

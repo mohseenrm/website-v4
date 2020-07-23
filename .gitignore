@@ -14,3 +14,7 @@
 # Dependency directories (remove the comment below to include it)
 # Hugo generated files
 website/resources/_gen/
+
+# Python venv
+hugo
+**/__pycache__/**
