@@ -1,7 +1,8 @@
+import json
+import logging
 import os
 import requests
 import xmltodict
-import json
 
 
 class Goodreads:
@@ -27,11 +28,13 @@ class Goodreads:
             # API version
             'v': 2
         }
+        logging.info('Fetching books from shelf')
 
         url = f'https://www.goodreads.com/review/list/{self._user_id}'
         response = requests.get(url, params)
         book_shelf = xmltodict.parse(response.content)
 
+        logging.info('Parsing results...')
         books = book_shelf.get('GoodreadsResponse',
                                {}).get('reviews', {}).get('review', [])
 
@@ -41,7 +44,7 @@ class Goodreads:
             to_read_books.append({
                 'title': book['title'],
                 'goodreads_link': book['link'],
-                'image': book['image_url']
+                'image': book['image_url'],
             })
 
         return to_read_books

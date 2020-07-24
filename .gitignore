@@ -18,3 +18,4 @@ website/resources/_gen/
 # Python venv
 hugo
 **/__pycache__/**
+**/output.log
