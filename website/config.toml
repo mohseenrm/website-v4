@@ -56,3 +56,9 @@ theme = "hugo-theme-codex"
   name = "books"
   title = "Books"
   url = "/book"
+
+[[menu.main]]
+  identifier = "projects"
+  name = "projects"
+  title = "Projects"
+  url = "https://github.com/mohseenrm"
