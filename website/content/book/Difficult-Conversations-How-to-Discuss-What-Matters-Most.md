@@ -1,10 +1,10 @@
 ---
 title: "Difficult Conversations How to Discuss What Matters Most"
-date: 2020-07-26 08:39:10.343295
+date: 2020-07-26 23:33:18.097721
 slug: ""
 description: ""
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: false

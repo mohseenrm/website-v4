@@ -1,10 +1,10 @@
 ---
 title: "Atomic Habits An Easy Proven Way to Build Good Habits Break Bad Ones"
-date: 2020-07-26 08:39:10.345053
+date: 2020-07-26 23:33:18.099521
 slug: ""
 description: ""
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: false

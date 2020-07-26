@@ -1,10 +1,10 @@
 ---
 title: "The Path Between Us An Enneagram Journey to Healthy Relationships"
-date: 2020-07-26 08:39:10.344923
+date: 2020-07-26 23:33:18.099385
 slug: ""
 description: ""
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: false

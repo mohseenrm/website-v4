@@ -1,10 +1,10 @@
 ---
 title: "The Way of the Superior Man A Spiritual Guide to Mastering the Challenges of Women Work and Sexual Desire"
-date: 2020-07-26 08:39:10.343973
+date: 2020-07-26 23:33:18.098427
 slug: ""
 description: ""
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: false
