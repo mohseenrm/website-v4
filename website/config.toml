@@ -9,7 +9,7 @@ theme = "hugo-theme-codex"
 # disqusShortname = ""
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
+# googleAnalytics = "UA-173591822-1"
 
 # Optional params
 [params]
