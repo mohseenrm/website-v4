@@ -1,6 +1,6 @@
 ---
 title: "Makers of Modern Strategy from Machiavelli to the Nuclear Age"
-date: 2020-07-24 05:35:00.800588
+date: 2020-07-26 08:39:10.348276
 slug: ""
 description: ""
 keywords: []

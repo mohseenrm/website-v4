@@ -1,6 +1,6 @@
 ---
 title: "Quit Like a Millionaire No Gimmicks Luck or Trust Fund Required"
-date: 2020-07-24 05:35:00.795186
+date: 2020-07-26 08:39:10.343560
 slug: ""
 description: ""
 keywords: []

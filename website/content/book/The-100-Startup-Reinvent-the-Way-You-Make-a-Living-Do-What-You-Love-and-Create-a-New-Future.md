@@ -1,6 +1,6 @@
 ---
 title: "The 100 Startup Reinvent the Way You Make a Living Do What You Love and Create a New Future"
-date: 2020-07-24 05:35:00.795891
+date: 2020-07-26 08:39:10.344104
 slug: ""
 description: ""
 keywords: []

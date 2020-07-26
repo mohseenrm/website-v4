@@ -52,12 +52,6 @@ theme = "hugo-theme-codex"
   url = "/"
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
-
-[[menu.main]]
   identifier = "books"
   name = "books"
   title = "Books"

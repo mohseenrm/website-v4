@@ -1,6 +1,6 @@
 ---
 title: "Maps of Meaning The Architecture of Belief"
-date: 2020-07-24 05:35:00.799725
+date: 2020-07-26 08:39:10.344655
 slug: ""
 description: ""
 keywords: []

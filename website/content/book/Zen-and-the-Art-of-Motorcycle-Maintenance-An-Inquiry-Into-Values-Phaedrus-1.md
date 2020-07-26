@@ -1,6 +1,6 @@
 ---
 title: "Zen and the Art of Motorcycle Maintenance An Inquiry Into Values Phaedrus 1"
-date: 2020-07-24 05:35:00.799832
+date: 2020-07-26 08:39:10.344784
 slug: ""
 description: ""
 keywords: []

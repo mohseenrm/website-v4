@@ -1,6 +1,6 @@
 ---
 title: "The Singularity is Near When Humans Transcend Biology"
-date: 2020-07-24 05:35:00.795367
+date: 2020-07-26 08:39:10.343699
 slug: ""
 description: ""
 keywords: []

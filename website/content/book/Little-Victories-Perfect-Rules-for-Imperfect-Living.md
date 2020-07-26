@@ -1,6 +1,6 @@
 ---
 title: "Little Victories Perfect Rules for Imperfect Living"
-date: 2020-07-24 05:35:00.800209
+date: 2020-07-26 08:39:10.345315
 slug: ""
 description: ""
 keywords: []

@@ -1,6 +1,6 @@
 ---
 title: "How To Absurd Scientific Advice for Common Real World Problems"
-date: 2020-07-24 05:35:00.796055
+date: 2020-07-26 08:39:10.344255
 slug: ""
 description: ""
 keywords: []

@@ -1,6 +1,6 @@
 ---
 title: "Science and Practice of Strength Training"
-date: 2020-07-24 05:35:00.800306
+date: 2020-07-26 08:39:10.345451
 slug: ""
 description: ""
 keywords: []
