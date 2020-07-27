@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://mohseenrm.github.io/"
 languageCode = "en-us"
-title = "Personal Website"
+title = "Mohseen Mukaddam"
 copyright = "© {year}"
 
 theme = "hugo-theme-codex" 
